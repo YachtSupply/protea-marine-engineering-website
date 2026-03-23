@@ -1,0 +1,45 @@
+{
+  "updatedAt": "2026-03-23T13:20:06.215Z",
+  "specialtiesKey": "Boat Mechanics & Engine Repair,Generator Service & Repair,Marine Plumbing & Sanitation",
+  "servicesKey": "",
+  "contentVersion": "6",
+  "content": {
+    "tagline": "Diesel Expertise, Owner-Operated, South Florida Trusted",
+    "about": "Protea Marine US is an owner-operated marine engineering team headquartered in Fort Lauderdale, FL — the heart of South Florida's boating capital. We specialize in marine diesel engines, generators, and transmissions, bringing expertise, reliability, and precision to every job we take on. When you work with us, you're working directly with experienced professionals who understand what's at stake when your vessel's systems go down.\n\nOur core services cover the full mechanical and systems needs of your boat. We handle generator service and repair, keeping your onboard power running dependably whether you're at the dock or offshore. Our marine plumbing and sanitation work addresses everything from through-hull fittings and raw water systems to holding tanks and MSD compliance. And when it comes to boat mechanics and engine repair, we work on marine diesel engines and transmissions with the hands-on precision that Fort Lauderdale's demanding boating environment requires.\n\nWe serve boat owners, captains, and vessel managers across South Florida — from Fort Lauderdale and the surrounding Broward County waterways to Miami-Dade, Palm Beach, and the broader 40-mile radius of South Florida's coastal communities. Whether you're keeping a liveaboard running smoothly, maintaining a sportfisher, or getting a motor yacht back in service, we bring the same commitment to quality to every job. Owner-operated means you get accountability and direct communication — not a dispatcher, not a middleman.",
+    "seoTitle": "Protea Marine Engineering | Generator Service & Repair Fort Lauderdale, FL",
+    "seoDescription": "Owner-operated marine diesel, generator repair & boat mechanics in Fort Lauderdale, FL. Serving South Florida within 40 miles. Call Protea Marine US today.",
+    "seoKeywords": [
+      "generator service repair Fort Lauderdale FL",
+      "marine plumbing sanitation Fort Lauderdale",
+      "boat mechanics engine repair Fort Lauderdale",
+      "marine diesel engine repair South Florida",
+      "boat engine repair Broward County",
+      "marine generator repair South Florida",
+      "marine transmission service Fort Lauderdale",
+      "boat mechanic Fort Lauderdale FL"
+    ],
+    "serviceDescriptions": {
+      "Generator Service & Repair": "We service, diagnose, and repair marine generators to keep your onboard power systems running reliably — whether it's routine maintenance, load testing, or tracking down an electrical fault. From diesel genset overhauls to fuel system repairs and control panel troubleshooting, we work on the generator systems that boats depend on every day.",
+      "Marine Plumbing & Sanitation": "Our marine plumbing and sanitation work covers raw water systems, seacocks, through-hull fittings, bilge pump systems, holding tanks, and MSD installations and repairs. Keeping these systems properly maintained and compliant is critical to vessel safety, onboard comfort, and regulatory standards.",
+      "Boat Mechanics & Engine Repair": "We perform diagnostics, mechanical repairs, and maintenance on marine diesel engines and transmissions, addressing everything from injector and fuel system issues to gearbox service and engine alignment. Our hands-on approach means we work directly on the drivetrain systems that keep your vessel performing the way it should."
+    },
+    "serviceAreaDescription": "Protea Marine US provides mobile marine services based in Fort Lauderdale, FL, covering South Florida within a 40-mile radius.",
+    "commonProjects": [
+      "Marine diesel engine diagnostic and repair for offshore vessels",
+      "Generator overhaul and load testing on motor yachts and sportfishers",
+      "Holding tank installation and MSD sanitation system repair",
+      "Raw water plumbing repair including seacocks and through-hull fittings",
+      "Marine transmission service and gearbox alignment correction",
+      "Bilge pump system inspection, repair, and replacement",
+      "Full engine service and tune-up for liveaboard and charter vessels"
+    ],
+    "serviceAreaLocalities": [
+      "Fort Lauderdale",
+      "Miami",
+      "Pompano Beach",
+      "Hollywood",
+      "Boca Raton"
+    ],
+    "serviceAreaTitle": "Our Service Area"
+  }
+}
