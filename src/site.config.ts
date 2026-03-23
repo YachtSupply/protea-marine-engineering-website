@@ -47,8 +47,8 @@ export const siteConfig = {
 
   // ── Boatwork integration ──────────────────────────────────
   boatwork: {
-    profileSlug: 'template',
-    profileId: '', // UUID — set during provisioning, permanent link to profile
+    profileSlug: 'protea-marine-engineering',
+    profileId: '42b0f85a-c7fb-41a4-96e4-08ce03d2a0dd', // UUID — set during provisioning, permanent link to profile
     profileUrl: 'https://boatwork.co/pro/template/',
     logoUrl: '/boatwork-logo.svg',
     useLiveReviews: false,
