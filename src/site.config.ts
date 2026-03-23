@@ -6,7 +6,7 @@
 // for each deployed site.
 // ============================================================
 
-export const TEMPLATE_VERSION = '1.1.1';
+export const TEMPLATE_VERSION = '1.1.2';
 
 export type BoatworkEventType =
   | 'profile.updated'
